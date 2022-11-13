@@ -1,4 +1,8 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+Live demo :
+
+- https://jasonocat.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
